@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "email": "doodles@email.com",
+      "password": "pass"
+    },
+    {
+      "id": 2,
+      "name": "Decker",
+      "email": "decker@email.com",
+      "password": "pass"
+    },
+    {
+      "id": 3,
+      "name": "Big Tony",
+      "email": "bigtony@email.com",
+      "password": "pass"
+    },
+    {
+      "email": "leigh@email.com",
+      "password": "leigh",
+      "id": 4
+    },
+    {
+      "email": "Steve@email.com",
+      "password": "pass",
+      "id": 5
+    }
+  ],
+  "tacos": [
+    {
+      "id": 1,
+      "name": "Corn Taco"
+    },
+    {
+      "id": 2,
+      "name": "Flour Taco"
+    },
+    {
+      "id": 3,
+      "name": "Hard Taco"
+    },
+    {
+      "id": 4,
+      "name": "Chalupa"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "tacoId": 1,
+      "userId": 1
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "name": "Chalupa"
+    },
+    {
+      "id": 2,
+      "name": "Corn Taco"
+    }
+  ]
+}
