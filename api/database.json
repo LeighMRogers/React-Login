@@ -27,6 +27,11 @@
       "email": "Steve@email.com",
       "password": "pass",
       "id": 5
+    },
+    {
+      "email": "neil@email.com",
+      "password": "neil",
+      "id": 6
     }
   ],
   "tacos": [
